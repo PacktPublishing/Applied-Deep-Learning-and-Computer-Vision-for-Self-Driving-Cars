@@ -1,1 +1,3 @@
-Training and test data
+You can download and put the files "train.p", "valid.p" and "test.p" in the current folder. 
+
+Link to download the files : https://drive.google.com/drive/folders/1I1ZyNzJraPi4mqyztONCxfAPOq7M_9Bk?usp=sharing
