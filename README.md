@@ -8,7 +8,7 @@ In the book you will also learn important python libraries like KERAS for Deep L
 4. https://numpy.org/
 5. https://stackoverflow.com/questions/51853018/how-do-i-install-opencv-using-pip/56315658
 
-Note: You can directly install Anaconda environment as it will install most of the datascience packages at once: https://www.anaconda.com/products/individual
+**Note:** You can directly install Anaconda environment as it will install most of the datascience packages at once: https://www.anaconda.com/products/individual
 
 Any additional installation instructions and information the user needs for getting set up. 
 
@@ -22,8 +22,7 @@ Chapter 5: No download required
 
 Chapter 6: No download required
 
-Chapter 7: Download link is provided in folder “traffic-signs-data”, download the file and put
-in “traffic-signs-data”
+Chapter 7: Download link is provided in folder “traffic-signs-data”, download the file and put in “traffic-signs-data”
 
 Chapter 8: No download required
 
@@ -33,6 +32,5 @@ Chapter 10: download link is provided in “beta_simulator_windows” and “tra
 
 Chapter 11: download link can be found in “data” folder.
 
-Note: Don’t copy the folder inside a folder examples data under the folder “data” should be
-copied under “data” folder not the folder itself.
+**Note:** Don’t copy the folder inside a folder examples data under the folder “data” should be copied under “data” folder not the folder itself.
 
