@@ -2,11 +2,11 @@
 
 In the book you will also learn important python libraries like KERAS for Deep Learning and OpenCV for computer vision in detail. All codes are tested on latest Anaconda environment (https://www.anaconda.com/products/individual) with python 3.7 on Windows 16 GB laptop. It is recommended to use laptop with more than 8GB. You can also use Google Colab if you would like to execute the code in platform independent environment. You need to install below libraries:
 
-1. https://www.tensorflow.org/install
-2. https://keras.io/
-3. https://pandas.pydata.org/
-4. https://numpy.org/
-5. https://stackoverflow.com/questions/51853018/how-do-i-install-opencv-using-pip/56315658
+1. Tensorflow Installation:  https://www.tensorflow.org/install
+2. Keras Installation:  https://keras.io/
+3. Pandas Installation:  https://pandas.pydata.org/
+4. Numpy Installation:  https://numpy.org/
+5. OpenCV Installation:  https://stackoverflow.com/questions/51853018/how-do-i-install-opencv-using-pip/56315658
 
 **Note:** You can directly install Anaconda environment as it will install most of the datascience packages at once: https://www.anaconda.com/products/individual
 
