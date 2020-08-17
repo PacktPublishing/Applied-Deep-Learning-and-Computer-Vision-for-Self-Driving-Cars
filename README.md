@@ -71,13 +71,13 @@ With the following software and hardware list you can run all code files present
 | 1        |Install Python 3.7 with latest Anaconda environment            | Windows, Mac OS X, and Linux (Any) |
 | 2        |Install deep learning libraries TensorFlow 2.0 and KERAS 2.3.4 | Windows, Mac OS X, and Linux (Any) |
 | 3        |Install image processing library OpenCV                        | Windows, Mac OS X, and Linux (Any) |
-| 4        
+
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [ https://static.packt-cdn.com/downloads/9781838646301_ColorImages.pdf] 
 
 ### Related products <Other books you may enjoy>
-* PyTorch Computer Vision Cookbook [[Packt]](https://www.packtpub.com/in/data/pytorch-computer-vision-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838644833[[Amazon]] (https://www.amazon.com/dp/1838644830)
+* PyTorch Computer Vision Cookbook [[Packt]](https://www.packtpub.com/in/data/pytorch-computer-vision-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838644833) [[Amazon]] (https://www.amazon.com/dp/1838644830)
 
 * Mastering Computer Vision with TensorFlow 2.x [[Packt]](https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=9781838827069) [[Amazon]] (https://www.amazon.com/dp/1838827064)
 
