@@ -27,57 +27,70 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+import numpy as np
+import matplotlib.pyplot as plt
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
 ```
 
-**Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+In the book you will also learn important python libraries like KERAS for Deep Learning and OpenCV for computer vision in detail. All codes are tested on latest Anaconda environment (https://www.anaconda.com/products/individual) with python 3.7 on Windows 16 GB laptop. It is recommended to use laptop with more than 8GB. You can also use Google Colab if you would like to execute the code in platform independent environment. You need to install below libraries:
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+1. Tensorflow Installation:  https://www.tensorflow.org/install
+2. Keras Installation:  https://keras.io/
+3. Pandas Installation:  https://pandas.pydata.org/
+4. Numpy Installation:  https://numpy.org/
+5. OpenCV Installation:  https://stackoverflow.com/questions/51853018/how-do-i-install-opencv-using-pip/56315658
+
+**Note:** You can directly install Anaconda environment as it will install most of the datascience packages at once: https://www.anaconda.com/products/individual
+
+Any additional installation instructions and information the user needs for getting set up. 
+
+For few of the chapter you need to install few files and put in folder provides, please find the details below:
+
+Chapter 3 to 6: No download required
+
+Chapter 7: Download link is provided in folder “traffic-signs-data”, download the file and put in “traffic-signs-data”
+
+Chapter 8-9: No Download required
+
+Chapter 10: download link is provided in “beta_simulator_windows” and “track” folder. Download the files and put in these folders.
+
+Chapter 11: download link can be found in “data” folder.
+
+
+**Following is what you need for this book:**
+If you are a deep learning engineer, AI researcher, or anyone looking to implement deep learning and computer vision techniques to build self-driving blueprint solutions, this book is for you. Anyone who wants to learn how various automotive-related algorithms are built, will also find this book useful. Python programming experience, along with a basic understanding of deep learning, is necessary to get the most of this book.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |
-| -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| Chapter  | Software required                                             | OS required                        |
+| -------- | ------------------------------------                          | -----------------------------------|
+| 1        |Install Python 3.7 with latest Anaconda environment            | Windows, Mac OS X, and Linux (Any) |
+| 2        |Install deep learning libraries TensorFlow 2.0 and KERAS 2.3.4 | Windows, Mac OS X, and Linux (Any) |
+| 3        |Install image processing library OpenCV                        | Windows, Mac OS X, and Linux (Any) |
+| 4        
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
-
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [ https://static.packt-cdn.com/downloads/9781838646301_ColorImages.pdf] 
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* PyTorch Computer Vision Cookbook [[Packt]](https://www.packtpub.com/in/data/pytorch-computer-vision-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838644833[[Amazon]](https://www.amazon.com/dp/1838644830)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Mastering Computer Vision with TensorFlow 2.x [[Packt]](https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=9781838827069) [[Amazon]](https://www.amazon.com/dp/1838827064)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Authors
+**Sumit Ranjan**
+is a silver medalist in his Bachelor of Technology (Electronics and Telecommunication) degree. He is a passionate data scientist who has worked on solving business problems to build an unparalleled customer experience across domains such as, automobile, healthcare, semi-conductor, cloud-virtualization, and insurance.
 
-**Author Name**
-Bio
+He is experienced in building applied machine learning, computer vision, and deep learning solutions, to meet real-world needs. He was awarded Autonomous Self-Driving Car Scholar by KPIT Technologies. He has also worked on multiple research projects at Mercedes Benz Research and Development. Apart from work, his hobbies are traveling and exploring new places, wildlife photography, and blogging.
+
+**Dr. S. Senthamilarasu**
+was born and raised in the Coimbatore, Tamil Nadu. He is a technologist, designer, speaker, storyteller, journal reviewer educator, and researcher. He loves to learn new technologies and solves real world problems in the IT industry. He has published various journals and research papers and has presented at various international conferences. His research areas include data mining, image processing, and neural network.
+
+He loves reading Tamil novels and involves himself in social activities. He has also received silver medals in international exhibitions for his research products for children with an autism disorder. He currently lives in Bangalore and is working closely with lead clients.
 
 
 ## Other books by the authors
