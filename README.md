@@ -5,7 +5,7 @@
 
 This is the code repository for Applied Deep Learning and Computer Vision for Self-Driving Cars https://www.packtpub.com/in/data/hands-on-self-driving-cars-with-deep-learning?utm_source=github&utm_medium=repository&utm_campaign=9781838646301, published by Packt.
 
-**Build autonomous vehicles using deep neural networks and behavior cloning techniques** 
+**Build autonomous vehicles using deep neural networks and behavior-cloning techniques** 
 
 ## What is this book about?
 
