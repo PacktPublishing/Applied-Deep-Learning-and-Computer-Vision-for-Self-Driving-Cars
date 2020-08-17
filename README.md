@@ -1,5 +1,5 @@
 # Applied Deep Learning and Computer Vision for Self-Driving Cars
-<a href= "https://www.packtpub.com/in/data/hands-on-self-driving-cars-with-deep-learning?utm_source=github&utm_medium=repository&utm_campaign=9781838646301" ><img src="https://www.packtpub.com/media/catalog/product/cache/c2dd93b9130e9fabaf187d1326a880fc/9/7/9781838646301-original_42.jpeg" alt="Applied Deep Learning and Computer Vision for Self-Driving Cars" height="256px" align="right"></a>
+<a href= "https://www.packtpub.com/in/data/hands-on-self-driving-cars-with-deep-learning?utm_source=github&utm_medium=repository&utm_campaign=9781838646301" /><img src="https://www.packtpub.com/media/catalog/product/cache/c2dd93b9130e9fabaf187d1326a880fc/9/7/9781838646301-original_42.jpeg" alt="Applied Deep Learning and Computer Vision for Self-Driving Cars" height="256px" align="right"></a>
 
 This is the code repository for Applied Deep Learning and Computer Vision for Self-Driving Cars https://www.packtpub.com/in/data/hands-on-self-driving-cars-with-deep-learning?utm_source=github&utm_medium=repository&utm_campaign=9781838646301, published by Packt.
 
