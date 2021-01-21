@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/applied-deep-learning-and-computer-vision-for-self-driving-cars/9781838646301)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1838646302).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Applied Deep Learning and Computer Vision for Self-Driving Cars
 <a href= "https://www.packtpub.com/in/data/hands-on-self-driving-cars-with-deep-learning?utm_source=github&utm_medium=repository&utm_campaign=9781838646301" /><img src="https://www.packtpub.com/media/catalog/product/cache/c2dd93b9130e9fabaf187d1326a880fc/9/7/9781838646301-original_42.jpeg" alt="Applied Deep Learning and Computer Vision for Self-Driving Cars" height="256px" align="right"></a>
 
