@@ -21,7 +21,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Errata
 
-**Page 16**
+**Page 22**
 
 It is: RADAR has great resolution;
 
@@ -35,13 +35,13 @@ It is: RFig 1.5: RADAR chart – strength
 
 Should be: Fig 1.5: LIDAR chart – strength
 
-**Page 17**
+**Page 23**
 
 It is: Fig 1.6: RADAR and camera plot
 
 Should be: Fig 1.6: LIDAR and camera plot
 
-**Page 24**
+**Page 30**
 
 It is: One of the shortcomings of LIDAR is that it usually has a low resolution;
 
