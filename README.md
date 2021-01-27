@@ -24,17 +24,21 @@ alt="https://www.packtpub.com/" border="5" /></a>
 **Page 16**
 
 It is: RADAR has great resolution;
+
 Should be: LIDAR has great resolution;
 
 It is: Let's look at the following RADAR chart:
+
 Should be: Let's look at the following LIDAR chart:
 
 It is: RFig 1.5: RADAR chart – strength
+
 Should be: Fig 1.5: LIDAR chart – strength
 
 **Page 17**
 
 It is: Fig 1.6: RADAR and camera plot
+
 Should be: Fig 1.6: LIDAR and camera plot
 
 **Page 24**
