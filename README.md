@@ -19,6 +19,30 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
+## Errata
+
+**Page 16**
+
+It is: RADAR has great resolution;
+Should be: LIDAR has great resolution;
+
+It is: Let's look at the following RADAR chart:
+Should be: Let's look at the following LIDAR chart:
+
+It is: RFig 1.5: RADAR chart – strength
+Should be: Fig 1.5: LIDAR chart – strength
+
+**Page 17**
+
+It is: Fig 1.6: RADAR and camera plot
+Should be: Fig 1.6: LIDAR and camera plot
+
+**Page 24**
+
+It is: One of the shortcomings of LIDAR is that it usually has a low resolution;
+Should be: One of the shortcomings of RADAR is that it usually has a low resolution;
+
+
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
