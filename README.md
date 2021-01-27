@@ -40,6 +40,7 @@ Should be: Fig 1.6: LIDAR and camera plot
 **Page 24**
 
 It is: One of the shortcomings of LIDAR is that it usually has a low resolution;
+
 Should be: One of the shortcomings of RADAR is that it usually has a low resolution;
 
 
